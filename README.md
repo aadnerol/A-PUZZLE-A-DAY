@@ -151,4 +151,6 @@ Notebooken:
 1. Finne alle mulige løsninger for hver dato
 2. Utforske hvilke datoer som har flest løsninger
 3. Utforske om det finnes "umulige" datoer uten løsning. 
-- - Eksempel: 31. februar
+- Eksempel: 31. februar
+
+---
