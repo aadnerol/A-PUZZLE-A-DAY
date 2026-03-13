@@ -153,5 +153,6 @@ Notebooken:
 3. Utforske om det finnes "umulige" datoer uten løsning. 
 - Eksempel: 31. februar
 4. Optimalisere med raskere løsningsalgoritmer.
+5. Nettside/app som gir figur med løsning 
 
 ---
