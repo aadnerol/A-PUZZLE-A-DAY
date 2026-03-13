@@ -55,16 +55,3 @@ def solve(
             del solution[piece_name]
 
     return None
-
-from board import Coord
-from pieces import Shape
-
-from board import build_target_board
-from solver import generate_all_placements, solve
-
-board = build_target_board("mar", 13)
-placements = generate_all_placements(board)
-solution = solve(board, placements)
-
-print(solution is not None)
-print(solution)

@@ -145,3 +145,12 @@ def build_target_board(month: str|int, day: int|str) -> set[Coord]:
     day_cell = get_day_cell(day)
     return BASE_BOARD - {month_cell, day_cell}
 
+LAYOUT = [
+    ["Jan","Feb","Mar","Apr","May","Jun", None],
+    ["Jul","Aug","Sep","Oct","Nov","Dec", None],
+    ["1","2","3","4","5","6","7"],
+    ["8","9","10","11","12","13","14"],
+    ["15","16","17","18","19","20","21"],
+    ["22","23","24","25","26","27","28"],
+    ["29","30","31", None, None, None, None],
+]
