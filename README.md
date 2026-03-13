@@ -148,9 +148,10 @@ Notebooken:
 ---
 # Videre arbeid
 
-1. Finne alle mulige løsninger for hver dato
-2. Utforske hvilke datoer som har flest løsninger
+1. Finne alle mulige løsninger for hver dato.
+2. Utforske hvilke datoer som har flest løsninger.
 3. Utforske om det finnes "umulige" datoer uten løsning. 
 - Eksempel: 31. februar
+4. Optimalisere med raskere løsningsalgoritmer.
 
 ---
